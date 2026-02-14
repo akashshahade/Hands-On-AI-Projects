@@ -222,12 +222,6 @@ Contributions are welcome! Feel free to:
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
-
-- Inspired by [Shubham Saboo's Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- Built with [Streamlit](https://streamlit.io/)
-- Powered by [OpenAI GPT-4](https://openai.com/)
-
 ## 📧 Support
 
 If you encounter any issues or have questions:
