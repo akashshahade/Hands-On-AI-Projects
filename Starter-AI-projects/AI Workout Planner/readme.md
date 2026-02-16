@@ -269,8 +269,6 @@ If you encounter any issues:
 
 ---
 
-**Stay Strong! 💪🔥**
-
 Made with ❤️ for fitness enthusiasts and AI lovers
 
 *Remember: The best workout is the one you actually do consistently!*
